@@ -1,4 +1,4 @@
-# Restaurant Ordering System (Python)
+# Restaurant Ordering System
 
 ## Overview
 A command-line restaurant ordering system written in Python that allows
