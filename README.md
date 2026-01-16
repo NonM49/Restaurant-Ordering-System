@@ -13,3 +13,4 @@ calculate the total cost.
 ## What I Learned
 - Using dictionaries to map items to prices
 
+![Game Screenshot](screenshot4.JPG)
